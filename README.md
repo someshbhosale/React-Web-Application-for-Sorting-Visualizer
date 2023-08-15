@@ -6,9 +6,9 @@ I wanted to improve my skills with React and also learn classic sorting algorith
 
 ## Installation
 
-git clone https://github.com/someshbhosale/React-Web-Application-for-Sorting-Visualizer.git
-cd sort-visualizer
-npm install
+git clone https://github.com/someshbhosale/React-Web-Application-for-Sorting-Visualizer.git <br>
+cd sort-visualizer <br>
+npm install <br>
 
 ## App Conventions
 
